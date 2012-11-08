@@ -26,6 +26,7 @@ public class App
 			
         	DBCollection coll = db.getCollection("users");
         	
+        	
         	//FIND ONE
 //        	DBObject myDoc = coll.findOne();
 //        	System.out.println(myDoc);
